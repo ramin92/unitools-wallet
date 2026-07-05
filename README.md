@@ -1,4 +1,4 @@
-# unitools-wallet
+# unitools-wallett
 A demo wallet for the Unicity Testnet
 # UniTools Wallet
 
